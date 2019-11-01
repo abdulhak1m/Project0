@@ -1,0 +1,8 @@
+H:\Widows Forms\Project1\Project1\bin\Release\Project1.exe.config
+H:\Widows Forms\Project1\Project1\bin\Release\Project1.exe
+H:\Widows Forms\Project1\Project1\bin\Release\Project1.pdb
+H:\Widows Forms\Project1\Project1\obj\Release\Project1.Form1.resources
+H:\Widows Forms\Project1\Project1\obj\Release\Project1.Properties.Resources.resources
+H:\Widows Forms\Project1\Project1\obj\Release\Project1.csproj.GenerateResource.cache
+H:\Widows Forms\Project1\Project1\obj\Release\Project1.exe
+H:\Widows Forms\Project1\Project1\obj\Release\Project1.pdb
